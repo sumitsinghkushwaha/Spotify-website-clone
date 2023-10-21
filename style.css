@@ -1,0 +1,20 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#main{
+    display: flex;
+    width: 100vw;
+    height: 90vh;
+    border: 2px solid blue;
+}
+#sidebar{
+    background-color: black;
+
+}
+#player{
+    position: ;
+}
